@@ -1,0 +1,842 @@
+Movie Name,Rating,Votes,Duration,Genre
+Dune: Part Two,8.5,610000,166,Action
+Venom: The Last Dance,6.0,105000,110,Action
+Gladiator II,6.6,213000,148,Action
+Sonic the Hedgehog 3,6.9,51000,110,Action
+The Lord of the Rings: The War of the Rohirrim,6.3,27000,134,Action
+William Tell,5.7,1400,133,Action
+Kraven the Hunter,5.4,42000,127,Action
+Pushpa: The Rule - Part 2,6.1,53000,201,Action
+Furiosa: A Mad Max Saga,7.5,278000,148,Action
+Elevation,5.6,19000,91,Action
+Borderlands,4.7,44000,101,Action
+Deadpool & Wolverine,7.6,478000,128,Action
+The Ministry of Ungentlemanly Warfare,6.8,131000,122,Action
+Civil War,7.0,231000,109,Action
+The Count of Monte-Cristo,7.6,32000,178,Action
+Twisters,6.5,159000,122,Action
+Carry-On,6.5,158000,119,Action
+The Crow,4.7,32000,111,Action
+Marco,7.0,19000,145,Action
+The Fall Guy,6.8,215000,126,Action
+The Beekeeper,6.3,152000,105,Action
+Kingdom of the Planet of the Apes,6.9,149000,145,Action
+Madame Web,4.0,99000,116,Action
+Homestead,5.4,3200,112,Action
+Rebel Ridge,6.8,85000,131,Action
+Red One,6.3,137000,123,Action
+Thelma,7.0,21000,98,Action
+Hellboy: The Crooked Man,4.5,12000,99,Action
+Old Guy,5.1,1500,94,Action
+Road House,6.2,165000,121,Action
+Transformers One,7.6,47000,104,Action
+Attack on Titan the Movie: The Last Attack,9.3,14000,145,Action
+Bad Boys: Ride or Die,6.5,98000,115,Action
+Argylle,5.6,91000,139,Action
+Damsel,6.1,108000,110,Action
+Solo Leveling: ReAwakening,8.7,6000,121,Action
+Monkey Man,6.8,90000,121,Action
+Love Lies Bleeding,6.6,55000,104,Action
+Aftermath,5.1,3300,97,Action
+Godzilla x Kong: The New Empire,6.1,119000,115,Action
+Baby John,5.4,17000,159,Action
+The Union,5.4,52000,107,Action
+Freaky Tales,6.5,362,106,Action
+Land of Bad,6.6,50000,113,Action
+The Killer's Game,5.7,16000,104,Action
+Absolution,5.2,7300,112,Action
+Azrael,5.4,10000,86,Action
+Drive-Away Dolls,5.4,23000,84,Action
+Uglies,4.7,32000,100,Action
+Blitz,6.2,15000,120,Action
+Arcadian,5.5,22000,92,Action
+Werewolves,4.4,5900,93,Action
+Kung Fu Panda 4,6.3,66000,94,Action
+Descendants: The Rise of Red,4.7,6900,91,Action
+The Killer,5.7,12000,126,Action
+Lift,5.5,49000,107,Action
+Beverly Hills Cop: Axel F,6.4,80000,118,Action
+The Instigators,6.2,37000,101,Action
+Weekend in Taipei,5.7,4300,100,Action
+Apocalypse Z: The Beginning of the End,6.1,19000,117,Action
+Brothers,5.4,13000,89,Action
+Maharaja,8.4,65000,141,Action
+11 Rebels,6.2,229,155,Action
+Hagen,6.1,946,139,Action
+Canary Black,5.4,11000,101,Action
+Watchmen: Chapter I,7.0,6200,83,Action
+Atlas,5.6,55000,118,Action
+Long Gone Heroes,5.2,938,101,Action
+The Silent Hour,6.1,6900,99,Action
+Kalki 2898 AD,7.0,66000,180,Action
+Dirty Angels,4.3,3100,104,Action
+Hitpig,5.1,811,86,Action
+The Shadow Strays,6.5,8800,144,Action
+Classified,3.7,2200,105,Action
+Survive,4.6,2000,90,Action
+Rebel Moon - Part Two: The Scargiver,5.3,59000,122,Action
+Cash Out,4.8,2800,92,Action
+Jackpot!,5.8,30000,106,Action
+Dominique,5.2,2100,100,Action
+Twilight of the Warriors: Walled In,7.0,8800,126,Action
+Trigger Warning,4.6,19000,106,Action
+Under Paris,5.2,36000,104,Action
+Gunner,3.2,2300,106,Action
+No Way Up,4.6,10000,90,Action
+Boneyard,4.1,4800,96,Action
+Watchmen: Chapter II,7.0,2700,90,Action
+Death Whisperer 2,6.4,1200,110,Action
+Armor,3.5,3600,89,Action
+Megamind vs. The Doom Syndicate,2.5,5400,83,Action
+Night Call,6.8,1700,97,Action
+Aavesham,7.8,27000,155,Action
+Panda Plan,5.1,1100,99,Action
+Agents,3.8,866,82,Action
+Red Right Hand,5.5,5700,111,Action
+Damaged,4.7,7100,97,Action
+Levels,5.0,1400,93,Action
+River of Blood,5.4,1500,86,Action
+Role Play,5.5,19000,100,Action
+Max,7.2,3200,132,Action
+Take Cover,5.1,2300,90,Action
+Harbin,6.6,464,108,Action
+Amaran,8.2,18000,167,Action
+Chief of Station,4.7,4300,97,Action
+My Hero Academia: You're Next,7.0,1900,110,Action
+Trouble,6.2,6600,98,Action
+My Spy: The Eternal City,5.7,11000,112,Action
+Sunray: Fallen Soldier,4.3,574,115,Action
+Joe Baby,8.2,24,86,Action
+Uprising,6.6,5300,126,Action
+Elyas,6.1,1200,105,Action
+Dark Match,5.5,811,94,Action
+The Thundermans Return,5.0,1800,70,Action
+Mafia Wars,3.4,210,94,Action
+Code 8: Part II,5.7,16000,100,Action
+The Fix,4.6,1100,98,Action
+Singham Again,4.8,75000,144,Action
+Rifle Club,7.0,3900,113,Action
+Simarik,6.4,2300,111,Action
+Hounds of War,4.5,1700,95,Action
+Sikandar Ka Muqaddar,6.0,24000,142,Action
+Drive Back,4.7,286,94,Action
+Rats!,8.2,74,85,Action
+Justice League: Crisis on Infinite Earths - Part One,6.2,8300,93,Action
+Prey,3.7,3200,86,Action
+Badland Hunters,5.9,12000,107,Action
+The Lost Tiger,7.8,31,90,Action
+The Courier,6.0,4300,101,Action
+The Roundup: Punishment,6.6,5000,109,Action
+Raayan,6.5,11000,145,Action
+Darkness of Man,4.8,3100,109,Action
+Cells at Work!,6.8,155,109,Action
+Officer Black Belt,6.8,7900,108,Action
+The Prosecutor,6.8,1300,117,Action
+Duchess,4.6,1200,114,Action
+Justice League: Crisis on Infinite Earths - Part Three,6.1,4300,94,Action
+The Price of Money: A Largo Winch Adventure,5.1,1000,100,Action
+The Wages of Fear,4.6,4000,104,Action
+Bougainvillea,6.4,3000,138,Action
+The Quiet Ones,6.5,501,110,Action
+Pani,6.9,2700,143,Action
+The Tiger's Apprentice,5.8,2100,84,Action
+Arena Wars,5.0,2000,96,Action
+Devara Part 1,6.0,20000,176,Action
+Karma,8.1,1400,167,Action
+City Hunter,6.3,5500,102,Action
+"I, the Executioner",6.3,1500,118,Action
+One Fast Move,5.0,2200,108,Action
+One More Shot,5.4,3500,103,Action
+Golden Kamuy,6.3,2500,127,Action
+Utopia,3.7,332,91,Action
+Cloud,6.3,882,123,Action
+Fight Another Day,5.1,320,97,Action
+Article 370,7.8,24000,158,Action
+Air Force One Down,4.4,2800,84,Action
+Lights Out,4.9,1700,90,Action
+Ultraman: Rising,6.9,6200,117,Action
+200% Wolf,6.0,1200,98,Action
+Fighter,6.2,52000,166,Action
+Life After Fighting,6.4,1900,126,Action
+Continental Split,3.5,531,88,Action
+Die Hart 2: Die Harter,4.3,5400,92,Action
+The Family Star,5.4,5400,159,Action
+Zero,6.1,37,88,Action
+Angels Fallen: Warriors of Peace,4.9,5800,103,Action
+Latency,4.2,1700,94,Action
+Kill Em All 2,4.1,1300,88,Action
+Echo 8,5.5,155,96,Action
+Agent Recon,2.4,656,85,Action
+Dan Da Dan: First Encounter,8.2,2500,83,Action
+Murder Company,3.6,1500,86,Action
+Ferry 2,5.6,3700,94,Action
+Operation Blood Hunt,3.4,452,93,Action
+Freedom,5.9,1300,110,Action
+Get Fast,3.6,432,88,Action
+Hijack 1971,6.8,3200,100,Action
+Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,8.2,642,174,Action
+Anaconda,4.9,599,84,Action
+Alien: Rubicon,2.4,327,86,Action
+A Legend,4.7,852,129,Action
+Alangu,8.3,1100,131,Action
+Wynonna Earp: Vengeance,5.6,1500,96,Action
+Jigra,6.0,23000,153,Action
+Striking Rescue,5.8,314,106,Action
+Diabel,5.1,190,108,Action
+The Clean Up Crew,4.1,1100,95,Action
+The Hangman,3.3,983,92,Action
+Justice League: Crisis on Infinite Earths - Part Two,5.5,5200,94,Action
+Invasion,4.8,662,91,Action
+Savi,6.2,35000,126,Action
+Spiders on a Plane,5.9,358,78,Action
+Agni,7.3,15000,122,Action
+Revolver,5.4,814,114,Action
+Terminator: Skynet Rising,6.8,257,88,Action
+Hanu Man,7.7,29000,158,Action
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.1,8200,104,Action
+Sixty Minutes,5.7,5100,88,Action
+Escape,6.4,1900,94,Action
+The Last Kumite,4.6,2300,105,Action
+London Calling,6.5,8,109,Action
+Outlaw,5.2,897,82,Action
+The Greatest of All Time,5.8,22000,183,Action
+Overlord: The Sacred Kingdom,7.0,693,135,Action
+72 Hours,4.1,279,87,Action
+Cassino in Ischia,4.4,229,113,Action
+Vettaiyan,7.0,39000,163,Action
+Baby Invasion,5.4,51,80,Action
+Heart of the Hunter,4.7,2100,105,Action
+Alienoid: The Return to the Future,6.5,2500,122,Action
+Handsome Guys,6.5,735,101,Action
+Snow White and the Seven Samurai,3.2,259,88,Action
+Operation Undead,4.6,346,110,Action
+Wanted Man,4.8,2500,85,Action
+Razakar: The Silent Genocide of Hyderabad,7.4,5200,166,Action
+"Love, Courage and the Battle of Bushy Run",5.0,168,113,Action
+Bagheera,6.7,7200,158,Action
+Kingdom 4: Return of the Great General,7.1,1200,145,Action
+The Lockdown,4.3,593,117,Action
+War of the Worlds: Extinction,3.0,170,84,Action
+Ryan's World the Movie: Titan Universe Adventure,1.8,629,80,Action
+Viduthalai Part 2,8.0,15000,170,Action
+GTMax,5.0,1200,100,Action
+Yodha,5.7,8800,130,Action
+The Last Front,5.5,596,98,Action
+Mura,7.3,6200,129,Action
+The Last Ronin,4.9,217,121,Action
+Vanvaas,6.7,994,160,Action
+Nice Girls,4.2,1200,92,Action
+The Ballad of Davy Crockett,4.6,242,96,Action
+12 Gaun,6.3,862,147,Action
+Saripodhaa Sanivaaram,7.0,8800,166,Action
+Chandu Champion,7.8,34000,142,Action
+Don't Mess with Grandma,6.1,141,81,Action
+Everybody Loves Jenifa,8.4,77,135,Action
+Thangalaan,6.6,6500,156,Action
+Kanguva,4.6,14000,152,Action
+Je Jatt Vigarh Gya,5.7,811,132,Action
+Guntur Kaaram,5.4,25000,159,Action
+A.R.M,7.1,8500,150,Action
+Vedaa,6.0,4200,145,Action
+Devaki Nandana Vasudeva,8.9,2700,128,Action
+Rogue Elements: A Ryan Drake Story,4.9,911,44,Action
+Memes & Nightmares,5.7,71,81,Action
+12 to Midnight,3.6,270,96,Action
+Mission: Cross,6.1,2500,105,Action
+Roadkill,3.6,671,90,Action
+The Firefighters,5.9,139,106,Action
+Escape from the 21st Century,6.5,797,98,Action
+UI,6.9,5600,135,Action
+Bachhala Malli,8.3,3900,140,Action
+Emilia Pérez,5.4,83000,132,Crime
+The Order,6.8,36000,116,Crime
+Longlegs,6.6,177000,101,Crime
+Riff Raff,6.3,754,103,Crime
+Pushpa: The Rule - Part 2,6.1,53000,201,Crime
+Despicable Me 4,6.2,62000,94,Crime
+Juror #2,7.0,90000,114,Crime
+MaXXXine,6.3,67000,103,Crime
+The Seed of the Sacred Fig,7.6,12000,167,Crime
+Carry-On,6.5,158000,119,Crime
+The Crow,4.7,32000,111,Crime
+The Beekeeper,6.3,152000,105,Crime
+Trap,5.8,128000,105,Crime
+Wolfs,6.5,78000,108,Crime
+Rebel Ridge,6.8,85000,131,Crime
+Bad Boys: Ride or Die,6.5,98000,115,Crime
+Lucky Baskhar,8.0,29000,148,Crime
+Monkey Man,6.8,90000,121,Crime
+Love Lies Bleeding,6.6,55000,104,Crime
+Freaky Tales,6.5,362,106,Crime
+Absolution,5.2,7300,112,Crime
+Greedy People,6.2,10000,112,Crime
+Sleeping Dogs,6.2,21000,110,Crime
+Lift,5.5,49000,107,Crime
+Beverly Hills Cop: Axel F,6.4,80000,118,Crime
+Beating Hearts,7.1,3900,166,Crime
+The Instigators,6.2,37000,101,Crime
+Blackwater Lane,4.6,1700,108,Crime
+Killer Heat,5.6,13000,97,Crime
+Misericordia,6.9,1500,104,Crime
+Brothers,5.4,13000,89,Crime
+Maharaja,8.4,65000,141,Crime
+The Thicket,5.8,2900,108,Crime
+Long Gone Heroes,5.2,938,101,Crime
+The Silent Hour,6.1,6900,99,Crime
+Hitpig,5.1,811,86,Crime
+The Shadow Strays,6.5,8800,144,Crime
+Twilight of the Warriors: Walled In,7.0,8800,126,Crime
+The Calendar Killer,5.5,3900,97,Crime
+Trigger Warning,4.6,19000,106,Crime
+Inside,7.0,207,104,Crime
+Boneyard,4.1,4800,96,Crime
+Armor,3.5,3600,89,Crime
+Megamind vs. The Doom Syndicate,2.5,5400,83,Crime
+The Unholy Trinity,7.9,48,93,Crime
+Damaged,4.7,7100,97,Crime
+Force of Nature: The Dry 2,5.9,6600,120,Crime
+Santosh,7.0,1400,128,Crime
+The Soul Eater,5.9,2400,108,Crime
+Mea Culpa,4.2,6900,120,Crime
+Sector 36,7.1,25000,123,Crime
+Harbin,6.6,464,108,Crime
+Dead Sea,5.3,5200,88,Crime
+Bogota: City of the Lost,5.4,1800,108,Crime
+Broken Rage,6.1,1200,62,Crime
+Trouble,6.2,6600,98,Crime
+Jönssonligan kommer tillbaka,6.0,828,104,Crime
+The Thundermans Return,5.0,1800,70,Crime
+Here Now,4.9,260,118,Crime
+Colors of Evil: Red,6.4,8300,111,Crime
+Code 8: Part II,5.7,16000,100,Crime
+Strictly Confidential,2.8,824,94,Crime
+Drugstore June,5.3,1600,91,Crime
+Depravity,4.3,898,117,Crime
+Lake George,6.4,830,118,Crime
+Maharaj,6.5,15000,131,Crime
+Detained,4.9,1400,97,Crime
+Sikandar Ka Muqaddar,6.0,24000,142,Crime
+Rats!,8.2,74,85,Crime
+What Jennifer Did,6.1,11000,87,Crime
+First Shift,4.4,2000,89,Crime
+Badland Hunters,5.9,12000,107,Crime
+Laws of Man,4.1,319,98,Crime
+The Courier,6.0,4300,101,Crime
+The Roundup: Punishment,6.6,5000,109,Crime
+Raayan,6.5,11000,145,Crime
+Darkness of Man,4.8,3100,109,Crime
+Officer Black Belt,6.8,7900,108,Crime
+Do Patti,6.4,68000,126,Crime
+Duchess,4.6,1200,114,Crime
+Ride,5.9,363,114,Crime
+Bougainvillea,6.4,3000,138,Crime
+The Quiet Ones,6.5,501,110,Crime
+Pani,6.9,2700,143,Crime
+In Her Place,6.2,1400,96,Crime
+City Hunter,6.3,5500,102,Crime
+"I, the Executioner",6.3,1500,118,Crime
+Justice,6.3,3700,113,Crime
+Marmalade,6.2,3500,99,Crime
+Cult Killer,4.8,2700,105,Crime
+Golam,7.2,5400,120,Crime
+El Jockey,6.5,1500,96,Crime
+A Place Called Silence,6.5,1200,119,Crime
+Barron's Cove,8.0,28,116,Crime
+Crescent City,3.9,1300,103,Crime
+The Trainer,7.2,51,95,Crime
+Lover Stalker Killer,7.0,13000,90,Crime
+5lbs of Pressure,5.3,1500,111,Crime
+Ferry 2,5.6,3700,94,Crime
+Papa,7.5,276,131,Crime
+Freedom,5.9,1300,110,Crime
+The Sabarmati Report,6.4,24000,127,Crime
+Ulajh,6.0,24000,150,Crime
+Hijack 1971,6.8,3200,100,Crime
+King Ivory,7.2,60,130,Crime
+The Clean Up Crew,4.1,1100,95,Crime
+Bloodline Killer,3.8,4400,105,Crime
+Guns & Moses,8.2,38,94,Crime
+Boundless,5.6,1800,121,Crime
+Bhakshak,7.2,7100,134,Crime
+Savi,6.2,35000,126,Crime
+Revolver,5.4,814,114,Crime
+Shoutai,6.8,458,120,Crime
+The Smile Man,7.7,1500,122,Crime
+The Park Maniac,4.8,1500,103,Crime
+Cookster: The Darkest Days,8.0,30,119,Crime
+Dead Wrong,3.8,255,104,Crime
+Biggest Heist Ever,6.1,1400,85,Crime
+To a Land Unknown,7.3,422,105,Crime
+Two to One,6.0,670,116,Crime
+Rakshana,5.6,1100,139,Crime
+Vettaiyan,7.0,39000,163,Crime
+Jailbreak: Love on the Run,6.4,3000,88,Crime
+Dead Mail,6.7,279,106,Crime
+Strangers,4.3,369,106,Crime
+Wanted Man,4.8,2500,85,Crime
+A Gangster's Kiss,4.9,45,81,Crime
+The Lockdown,4.3,593,117,Crime
+Sicilian Letters,6.1,566,122,Crime
+Viduthalai Part 2,8.0,15000,170,Crime
+Thalavan,7.2,4400,131,Crime
+GTMax,5.0,1200,100,Crime
+Nice Girls,4.2,1200,92,Crime
+Last Known Location,6.3,1300,110,Crime
+Saripodhaa Sanivaaram,7.0,8800,166,Crime
+Maldoror,7.1,530,155,Crime
+Anweshippin Kandethum,7.4,10000,142,Crime
+The Kingdom,7.0,615,108,Crime
+Bermondsey Tales: Fall of the Roman Empire,4.4,173,99,Crime
+Kingsmen,6.4,45,72,Crime
+Mission: Cross,6.1,2500,105,Crime
+Roadkill,3.6,671,90,Crime
+Anand Sreebala,6.6,2300,134,Crime
+Lady Scorpions,3.6,360,101,Crime
+How to Rob a Bank,6.6,4100,88,Crime
+"Pooja, Sir",6.4,708,115,Crime
+Baby Assassins: Nice Days,7.4,262,103,Crime
+Un homme en fuite,5.4,134,106,Crime
+Belle,5.8,13,100,Crime
+Rob N Roll,6.1,1400,98,Crime
+Auron Mein Kahan Dum Tha,6.6,40000,150,Crime
+Serpent's Path,5.8,272,112,Crime
+Dhakshina,6.9,5200,107,Crime
+Toofan,7.1,6100,145,Crime
+The Birds Who Fear Death,9.4,69,102,Crime
+Citizen of a Kind,6.7,765,114,Crime
+Untamed Royals,4.6,619,99,Crime
+Amish Affair,5.5,195,86,Crime
+Hellhound,4.3,481,103,Crime
+They Called Him Mostly Harmless,5.9,3200,89,Crime
+Diddy: Summit to Plummet,2.2,198,60,Crime
+Scorched Earth,6.7,495,101,Crime
+Visfot,5.7,1100,130,Crime
+Kahar: Kapla High Council,6.9,437,102,Crime
+Phir Aayi Hasseen Dillruba,5.8,6700,132,Crime
+Silver Star,7.2,12,102,Crime
+Zebra,8.0,3200,164,Crime
+Bangkok Breaking: Heaven and Hell,5.8,651,146,Crime
+The Actor,3.3,720,128,Crime
+Dirty Ice Cream,4.4,115,47,Crime
+Tillu Square,6.6,3400,137,Crime
+She's Got No Name,7.0,45,150,Crime
+Siren,6.4,2900,154,Crime
+ChiefsAholic: A Wolf in Chiefs Clothing,6.2,365,121,Crime
+Borderless Fog,5.2,1300,110,Crime
+The Shameless,5.6,186,114,Crime
+Mr. Bachchan,3.6,5200,150,Crime
+Estômago II: O Poderoso Chef,5.8,311,131,Crime
+Sorgavaasal,6.6,1300,138,Crime
+Nunakuzhi,6.8,2900,125,Crime
+Jersey Bred,4.9,39,92,Crime
+10 Days of a Curious Man,5.8,1200,110,Crime
+"MoviePass, MovieCrash",6.7,2800,96,Crime
+Rautu Ka Raaz,6.3,1900,114,Crime
+The Kingdom,7.9,84,133,Crime
+The Truth vs. Alex Jones,7.5,2900,121,Crime
+(Pri)sons,5.0,246,100,Crime
+Untold: The Murder of Air McNair,5.6,2000,57,Crime
+Bangkok Dog,6.4,94,85,Crime
+Operation Raavan,8.5,1200,147,Crime
+Havnaa,7.3,215,110,Crime
+Unspoken,8.2,47,120,Crime
+Abraham Ozler,6.5,4100,143,Crime
+Svemu dodje kraj,6.7,250,89,Crime
+Crisis Negotiators,6.7,689,120,Crime
+Nahir,4.7,1100,122,Crime
+Killer Babes,3.5,282,94,Crime
+Sheriff,6.9,1100,133,Crime
+Sayara,5.7,264,98,Crime
+Plastic Guns,6.3,581,95,Crime
+Fyre Rises,6.5,321,110,Crime
+9 Windows,3.6,300,82,Crime
+The Texas Cheerleader Murder Plot,5.0,289,100,Crime
+In Youth We Trust,7.8,64,132,Crime
+Blackia 2,5.9,124,132,Crime
+Dengeler,5.9,63,123,Crime
+Le Mohican,7.0,135,87,Crime
+Nefarious,7.0,52,85,Crime
+Love You to Debt,6.2,744,135,Crime
+No Cap,5.8,32,108,Crime
+Drive,5.6,309,90,Crime
+Silvio,3.0,492,114,Crime
+Murder and Cocktails,4.0,355,88,Crime
+Midas,4.6,331,85,Crime
+Krista,5.6,44,58,Crime
+"Hemet, or the Landlady Don't Drink Tea",4.3,84,89,Crime
+Kaulayaw,4.5,126,95,Crime
+Troll Factory,5.8,458,109,Crime
+Green Bones,7.7,179,96,Crime
+Vina: Before 7 Days,5.4,565,100,Crime
+Modal Nekad,7.7,84,107,Crime
+Quotation Gang Part 1,8.8,20,118,Crime
+Hunt the Wicked,5.2,104,102,Crime
+Prepare to Die,4.6,228,93,Crime
+Kurukku,6.6,529,109,Crime
+Conquer: Lahad Datu,6.7,493,120,Crime
+Mirza: Part 1 - Joker,6.8,236,165,Crime
+The Shadow,6.5,227,90,Crime
+Kondal,5.4,761,147,Crime
+The Waterboyz,7.9,83,89,Crime
+Shakhahaari,7.5,1300,145,Crime
+Dream Team,5.2,58,91,Crime
+Where Is Gilgamesh?,9.0,603,90,Crime
+Chris Brown: A History of Violence,5.4,297,82,Crime
+The Epidemic,5.8,68,95,Crime
+Below the Rim,5.0,13,89,Crime
+Flow,7.9,54000,85,Family
+Sonic the Hedgehog 3,6.9,51000,110,Family
+Mufasa: The Lion King,6.6,46000,118,Family
+Despicable Me 4,6.2,62000,94,Family
+Paddington in Peru,6.7,16000,106,Family
+Moana 2,6.7,82000,100,Family
+Inside Out 2,7.5,210000,96,Family
+Wallace & Gromit: Vengeance Most Fowl,7.5,32000,82,Family
+Transformers One,7.6,47000,104,Family
+IF,6.4,56000,104,Family
+The Day the Earth Blew Up: A Looney Tunes Movie,6.7,1000,91,Family
+Fear,8.6,2700,115,Family
+The Garfield Movie,5.7,23000,101,Family
+The Forge,6.7,4500,124,Family
+Kung Fu Panda 4,6.3,66000,94,Family
+Descendants: The Rise of Red,4.7,6900,91,Family
+Harold and the Purple Crayon,5.7,7800,90,Family
+A Sloth Story,6.0,149,90,Family
+Young Hearts,8.1,4300,97,Family
+How to Make Millions Before Grandma Dies,8.0,13000,125,Family
+Hitpig,5.1,811,86,Family
+Spellbound,5.7,6200,109,Family
+Lost on a Mountain in Maine,6.2,1100,98,Family
+Piece by Piece,6.9,5000,93,Family
+Faith of Angels,5.9,165,98,Family
+Megamind vs. The Doom Syndicate,2.5,5400,83,Family
+Panda Plan,5.1,1100,99,Family
+You Gotta Believe,5.8,1200,104,Family
+My Penguin Friend,6.7,4600,97,Family
+Unsung Hero,7.0,4900,113,Family
+Saving Bikini Bottom: The Sandy Cheeks Movie,3.7,3700,82,Family
+Orion and the Dark,6.3,17000,93,Family
+Guest from the Future,6.0,1100,141,Family
+Big World,7.4,945,131,Family
+The Thundermans Return,5.0,1800,70,Family
+That Christmas,6.8,17000,91,Family
+Thelma the Unicorn,5.7,2800,93,Family
+The Lost Tiger,7.8,31,90,Family
+Autumn and the Black Jaguar,5.6,954,100,Family
+The Tiger's Apprentice,5.8,2100,84,Family
+Crayon Shin-chan: Ora's Dinosaur Diary,6.6,301,106,Family
+Bambi: A Tale of Life in the Woods,5.7,149,85,Family
+10 Lives,5.9,1800,88,Family
+Doraemon the Movie: Nobita's Earth Symphony,6.6,1400,115,Family
+Ultraman: Rising,6.9,6200,117,Family
+Storm Crashers,6.3,548,88,Family
+200% Wolf,6.0,1200,98,Family
+Woody Woodpecker Goes to Camp,4.5,2500,100,Family
+Woodwalkers,5.4,319,103,Family
+Meiyazhagan,8.4,13000,177,Family
+Runt,6.4,484,91,Family
+Buffalo Kids,6.6,621,93,Family
+Bibi Rajni,8.6,706,143,Family
+Average Joe,4.2,559,100,Family
+Rebellious,6.0,154,94,Family
+Der Buchspazierer,7.3,343,98,Family
+Ghost Cat Anzu,6.5,655,97,Family
+The Night Before Christmas in Wonderland,6.3,506,80,Family
+My Freaky Family,6.5,381,86,Family
+Ryan's World the Movie: Titan Universe Adventure,1.8,629,80,Family
+Savages,7.0,263,87,Family
+The Groomsmen: First Look,6.1,373,82,Family
+Robin and the Hoods,4.4,504,100,Family
+Man and Witch: The Dance of a Thousand Steps,5.5,322,94,Family
+Gracie and Pedro: Pets to the Rescue,5.1,253,87,Family
+And the Breadwinner Is...,6.8,241,123,Family
+Believe in Christmas,6.1,817,90,Family
+Super-Charlie,6.4,102,80,Family
+Return to Wickensburg,4.9,21,88,Family
+Home Sweet Loan,8.1,808,112,Family
+A Sudden Case of Christmas,5.1,1100,91,Family
+A Nashville Wish,5.6,86,102,Family
+Noah's Ark,4.3,622,96,Family
+My Oni Girl,6.0,1700,112,Family
+A Brother and 7 Siblings,8.6,1100,129,Family
+School of Magical Animals 3,5.8,292,105,Family
+Disaster Holiday,4.8,664,93,Family
+A Carpenter's Prayer,8.6,33,91,Family
+Rally Caps,5.5,123,100,Family
+Marry Christmas,6.9,57,85,Family
+Chico Bento e a Goiabeira Maraviosa,7.8,451,90,Family
+Living Large,7.8,97,80,Family
+Børnene fra Sølvgade,7.6,89,102,Family
+Dalia y el Libro Rojo,7.3,28,107,Family
+Panda Bear in Africa,5.5,303,84,Family
+Brewster's Millions: Christmas,5.7,184,100,Family
+Like a Rolling Stone,7.8,404,106,Family
+Going Viral,6.8,49,90,Family
+Victoria må dø,5.9,342,85,Family
+The Neon Highway,6.0,482,113,Family
+The Snow Sister,7.0,2100,96,Family
+Bremenskie muzykanty,4.6,658,115,Family
+Father There is Only One 4,5.2,597,90,Family
+Bila Esok Ibu Tiada,6.6,219,104,Family
+Treasure Trackers,5.8,149,92,Family
+2nd Miracle in Cell No. 7,7.8,197,147,Family
+No Time to Spy: A Loud House Movie,6.4,431,81,Family
+Dear Family,7.0,46,116,Family
+The Primrose Railway Children,4.9,142,81,Family
+"Maya, donne-moi un titre",6.5,46,61,Family
+The Casagrandes Movie,5.6,646,89,Family
+Paper Flowers,9.0,28,100,Family
+Windcatcher,5.3,405,80,Family
+Il migliore dei mali,8.2,5,90,Family
+Heartsping : Teenieping of Love,7.2,20,0,Family
+Ole Aale,8.7,406,142,Family
+Juliette au printemps,6.5,213,95,Family
+Dance Rivals,6.0,63,93,Family
+The Lamb,7.1,27,85,Family
+Juf Braaksel en de Geniale Ontsnapping,4.0,41,83,Family
+Big City Greens the Movie: Spacecation,6.2,528,0,Family
+Véletlenül írtam egy könyvet,7.7,265,98,Family
+Skelly,5.6,87,85,Family
+Grrr...,4.0,805,121,Family
+Saint Nick of Bethlehem,9.3,94,93,Family
+G for Gap,7.2,530,103,Family
+The Magic Penguin,3.8,25,89,Family
+Dog Days,6.7,295,120,Family
+Troy the Bharat Putra,5.7,29,134,Family
+Dongeng Sang Kancil,8.1,75,99,Family
+Singapore Saloon,6.0,1200,137,Family
+Si Juki the Movie: Harta Pulau Monyet,6.1,113,107,Family
+Kvitebjørn,5.9,51,85,Family
+Vishesham,6.7,1300,136,Family
+Laggam,8.5,5100,130,Family
+"Love, Sitara",5.3,294,105,Family
+Joy of Horses,5.8,160,90,Family
+Goldbeak,4.9,125,94,Family
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,6.8,25,71,Family
+Magic Beach,5.5,58,80,Family
+14 Days Love,7.5,8,112,Family
+The Proud Princess,7.1,97,84,Family
+Cup,8.5,65,146,Family
+Niko: Beyond the Northern Lights,6.3,287,86,Family
+Letuchiy korabl,3.7,286,100,Family
+Domovyonok Kuzya,6.6,799,90,Family
+SuperKlaus,4.3,188,88,Family
+Ghudchadi,4.2,548,113,Family
+Animal Tales of Christmas Magic,6.8,50,72,Family
+Little Emma,5.7,97,106,Family
+Hashtag Tadev lagnam,6.6,122,118,Family
+Stinky Summer,6.1,43,90,Family
+Yolki 11,4.7,163,92,Family
+For Prophet,5.4,104,105,Family
+Peppa's Cinema Party,5.0,151,65,Family
+Daaru Na Peenda Hove,7.7,2300,111,Family
+Sabari,8.4,5400,129,Family
+The Legend of Catclaws Mountain,3.5,169,104,Family
+Babah,7.0,104,129,Family
+The Big Trip 3: Race Around the World,5.8,49,85,Family
+Dedh Bigha Zameen,6.9,739,100,Family
+Dikkie Dik 2: Een Nieuwe Vriend voor Dikkie Dik,7.4,71,70,Family
+Luv Ki Arrange Marriage,3.9,4500,135,Family
+Baba Yaga spasaet Novyy god,4.4,113,99,Family
+LasseMajas detektivbyrå - Maskoten som försvann,6.1,52,90,Family
+Superkrachten voor je hoofd,7.3,193,92,Family
+Too Old for Fairy Tales 2,4.8,384,95,Family
+Heavens: The Boy and His Robot,6.3,21,98,Family
+Rajakili,8.8,535,122,Family
+Daye: Seret ahl el Daye,7.6,14,104,Family
+Captain Avispa,5.8,171,96,Family
+Rajkumar,7.3,2600,145,Family
+Paagal vs Kadhal,9.0,2100,111,Family
+Luigi's Mansion,6.0,16,60,Family
+Gharat Ganpati,7.9,489,139,Family
+Powder Pup,6.2,73,89,Family
+Spirit of Friendship,4.3,72,85,Family
+Carol,8.3,47,115,Family
+Ognivo,5.5,209,105,Family
+De Bellinga's: Pretpark op stelten,3.1,122,70,Family
+BeBe Winans' We Three Kings,6.9,126,90,Family
+Sieger Sein,6.6,165,119,Family
+Brother,6.3,2300,140,Family
+Baii Ga,4.2,59,134,Family
+My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,5.0,7,74,Family
+Steal the Naughty List,6.7,113,90,Family
+Yaren Leylek,6.2,23,95,Family
+Chicken Coop,5.7,85,98,Family
+Super papa,5.2,109,90,Family
+Gina,7.7,21,100,Family
+Feather Christmas,5.2,120,94,Family
+Mr. Santa: A Christmas Extravaganza,8.5,16,98,Family
+Sunny,7.6,21,122,Family
+DeAr,5.1,1300,132,Family
+"Die Heinzels: Neue Mützen, Neue Mission",6.4,61,76,Family
+Vaar Tahevaar,8.0,278,127,Family
+Masha i Medved v kino: Park chudes,7.0,16,58,Family
+Our Christmas House,5.4,44,77,Family
+Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,6.8,14,90,Family
+"7 dney, 7 nochey",6.3,402,98,Family
+Tri kota. Zimnie kanikuly,6.3,26,65,Family
+Our Church Thinks We're Dating,7.5,59,102,Family
+Chithini,6.0,551,151,Family
+Manyunya. Priklyucheniya v derevne,5.8,113,84,Family
+A Christmas Miracle,6.0,65,88,Family
+Zak & Wowo: The Legend of Lendarys,5.7,84,85,Family
+Askepote,3.4,78,72,Family
+Kardes Takimi,3.5,534,95,Family
+Wedding Diaries,9.0,2000,121,Family
+Mees Kees op eigen benen,6.1,31,82,Family
+The Adventures of Jurassic Pet: Return to the Wild,5.4,49,90,Family
+Woof Woof Daddy,6.5,39,105,Family
+Planet 7693,7.6,66,110,Family
+Porch Pirates,5.0,99,107,Family
+Oyunda Kal: Eglence Arenasi,2.7,35,92,Family
+Grüsse vom Mars,6.5,18,85,Family
+The Hedgehog,6.7,664,104,Family
+Ducobu passe au vert!,4.0,122,90,Family
+Krispy Rishtey,6.6,69,133,Family
+"Akiko, der fliegende Affe",8.4,10,70,Family
+Dikkie Dik en de Verdwenen Knuffel,7.2,125,62,Family
+The Secret of Pin-Up Island,7.4,92,107,Family
+Double Engine,5.6,113,106,Family
+Gowri,7.4,4100,130,Family
+Padmavyuham Lo Chakradhari,7.4,1700,110,Family
+Thookudurai,4.3,2300,125,Family
+Håkan Bråkan 2,5.4,126,92,Family
+Amaltash,8.1,144,113,Family
+Uma & Haggen: Mitos,7.4,44,94,Family
+Die Chaosschwestern und Pinguin Paul,5.6,64,100,Family
+Tartinijev kljuc,7.8,21,115,Family
+CBeebies Panto: Beauty and the Beast,7.8,16,73,Family
+Inanimate Insanity II: The Movie,8.9,224,106,Family
+Double Tuckerr,5.0,1200,120,Family
+Mountain Boy,8.2,17,93,Family
+My Dear Donga,5.7,159,132,Family
+"Robotia, the Movie",8.6,16,86,Family
+Ne odna doma,4.1,78,79,Family
+The Netflix Slam,7.1,141,150,Game-Show
+Every Christopher Nolan Movie Ranked,8.7,18,59,News
+The Turning Point: XCLD: The Story of Cancel Culture,5.3,33,44,News
+The Truth: The Journey Within,7.2,8,91,News
+National Theatre Live: Dear England,8.1,134,191,Talk-Show
+Anthony Rodia Totally Relatable,8.0,20,77,Talk-Show
+William Tell,5.7,1400,133,War
+The Ministry of Ungentlemanly Warfare,6.8,131000,122,War
+The Six Triple Eight,6.7,25000,127,War
+My Dead Friend Zoe,7.3,1000,103,War
+Nr. 24,7.5,14000,111,War
+Blitz,6.2,15000,120,War
+Dirty Angels,4.3,3100,104,War
+Chhava,8.6,2200,51,War
+Amaran,8.2,18000,167,War
+Uprising,6.6,5300,126,War
+Escape from Germany,5.4,885,97,War
+Laws of Man,4.1,319,98,War
+Goebbels and the Führer,6.7,1900,135,War
+Murder Company,3.6,1500,86,War
+Decoded,5.8,406,156,War
+Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,8.2,642,174,War
+Invasion,4.8,662,91,War
+Before Dawn,5.4,922,101,War
+Without Blood,7.5,88,91,War
+Quisling: The Final Days,7.1,1000,146,War
+"Love, Courage and the Battle of Bushy Run",5.0,168,113,War
+The Last Front,5.5,596,98,War
+Chandu Champion,7.8,34000,142,War
+Bau: Artist at War,7.0,51,130,War
+The Witch: Revenge,5.3,768,100,War
+"Canadian, Sniper",3.5,346,83,War
+WWII: Operation Phoenix,6.7,61,106,War
+Never Alone,7.2,399,85,War
+The Volunteers: The Battle of Life and Death,6.2,212,144,War
+Battlefield,6.2,626,104,War
+The Shamrock Spitfire,5.1,469,108,War
+Ka Whawhai Tonu,7.4,169,115,War
+The Friendly,8.1,15,101,War
+Atatürk II: 1881-1919,8.9,1900,141,War
+The Yin Yang Master Zero,5.7,254,112,War
+White Courage,6.4,604,115,War
+Orang Ikan,6.5,31,83,War
+Kang Mak,6.4,748,122,War
+Klitschko: More Than a Fight,6.3,485,96,War
+Aserb: The Squadron,5.2,295,120,War
+Ludzie,6.9,40,117,War
+Fortunes of War,3.5,172,85,War
+Conquer: Lahad Datu,6.7,493,120,War
+24 Hours to D-Day,5.0,29,83,War
+The Epidemic,5.8,68,95,War
+The Liberation Men,6.5,76,90,War
+Red Poppies,4.7,293,122,War
+Air War,6.5,111,106,War
+Haywire: Gunslingers,2.2,25,85,War
+War Blade,3.9,251,94,War
+Burning Stars,6.5,42,84,War
+Bardejov,4.8,174,85,War
+"Dao, Pho Va Piano",5.9,186,100,War
+The Dugout,5.5,746,114,War
+We Were Recruits,7.0,228,92,War
+Russians at War,1.8,1000,129,War
+Hitler,5.2,301,128,War
+"America, Invaded",7.2,19,82,War
+The Mousetrap,6.6,12,87,War
+Bozji gnjev,7.3,57,111,War
+Operation Star,7.6,23,102,War
+October 7 - Al Jazeera Investigations,6.5,40,60,War
+Pidyomna syla,8.9,63,87,War
+Blood Vendetta,7.7,234,90,War
+Eddy's oorlog,7.7,46,101,War
+Village of Death: Oradour-sur-Glane 1944,7.8,14,58,War
+Pozyvnoy «Passazhir»,4.8,217,101,War
+Vremya vernutsya,8.0,10,100,War
+Kara Kyz,4.8,18,111,War
+Churchill's Forgotten War,7.4,9,47,War
+Korni,8.2,14,137,War
+Los indomables,6.5,9,106,War
+On Moral Grounds,8.4,7,74,War
+Sem chyornykh bumag,6.6,55,96,War
+Krasnye lenty,5.2,17,62,War
+"Por ti, Portugal, eu juro!",7.6,5,98,War
+Dosije Kosovo - Pogrom,7.6,5,109,War
+Krigsvarsleren,7.2,6,55,War
+Horizon: An American Saga - Chapter 1,6.7,39000,181,Western
+Horizon: An American Saga - Chapter 2,7.1,1200,190,Western
+Rust,5.9,161,133,Western
+The Thicket,5.8,2900,108,Western
+The Unholy Trinity,7.9,48,93,Western
+Calamity Jane,4.4,781,95,Western
+Pedro Páramo,6.3,2800,130,Western
+Golden Kamuy,6.3,2500,127,Western
+Buffalo Kids,6.6,621,93,Western
+Over the Red River,3.6,73,83,Western
+Unnatural,5.1,85,104,Western
+The Ballad of Davy Crockett,4.6,242,96,Western
+Outlaw Posse,4.3,511,108,Western
+Seven Cemeteries,4.4,486,84,Western
+Eye for an Eye 2,6.5,474,90,Western
+Paradise,6.9,77,83,Western
+The Night They Came Home,3.5,423,105,Western
+Fyre Rises,6.5,321,110,Western
+They Call Her Death,6.2,22,92,Western
+Same Old West,8.5,28,98,Western
+Taken from Rio Bravo,3.0,307,80,Western
+Hinter dem Eisernen Horizont,7.6,12,88,Western
+The Ecstasy of Gold: The Treasure of Jesse James,6.8,11,90,Western
+Ghosts of Red Ridge,3.3,144,81,Western
+Malaikottai Vaaliban,6.0,4100,156,Western
+My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,5.0,7,74,Western
+Lady Outlaw,6.8,16,104,Western
+Searching for the Elephant,5.8,32,116,Western
+Oro Amargo,7.8,25,83,Western
+Coyote Woman,2.2,73,110,Western
+Escanyapobres,7.2,35,102,Western
+In Search of Bass Reeves,6.1,57,105,Western
+Once Upon a Time in Amityville,3.5,46,73,Western
+Joe Crist,6.9,34,53,Western
+Death After Dusk,5.7,88,140,Western
+Bo Nan Za,9.1,27,61,Western
+El Vaquero,8.4,8,93,Western
+Zoloto Umalty,5.0,100,109,Western
+Adiós al amigo,7.3,7,118,Western
+Myall Creek Day of Justice,6.4,17,78,Western
+Jama,6.3,14,71,Western
+Last Flamingo of the Red Summer Sunset,8.8,13,80,Western
+The Wolf in the Chute,9.0,12,33,Western
+Travesty,6.4,5,78,Western
